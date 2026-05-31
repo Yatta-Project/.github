@@ -1,4 +1,4 @@
-Design forked from Vanilla OS
+<div align="right">Design forked from Vanilla OS</div>
 
 <div align="center">
   <picture>
