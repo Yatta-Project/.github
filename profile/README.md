@@ -1,5 +1,3 @@
-<div align="right">Design forked from ✨ <a href="https://github.com/Vanilla-OS">Vanilla OS</a><br></div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Yatta.png">
