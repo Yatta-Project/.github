@@ -6,5 +6,5 @@ Design forked from Vanilla OS
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vanilla-OS/.github/blob/main/profile/cover.png">
     <img alt="Vanilla OS is your next operating system" src="Yatta.png">
   </picture>
-  <p>Vanilla OS is an immutable and atomic Linux operating system with user experience as the main focus.</p>
+  <p>Not the product. Vision of the future Desktop</p>
 </div>
