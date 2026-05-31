@@ -1,4 +1,4 @@
-<div align="right">Design forked from <a href="https://github.com/Vanilla-OS">Vanilla OS</a><br></div>
+<div align="right">Design forked from ✨ <a href="https://github.com/Vanilla-OS">Vanilla OS</a><br></div>
 
 <div align="center">
   <picture>
