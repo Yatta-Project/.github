@@ -6,5 +6,4 @@
     <source media="(prefers-color-scheme: light)" srcset="Yatta.png">
     <img alt="Vanilla OS is your next operating system" src="Yatta.png">
   </picture>
-  <p>Not the product. Vision of the future Desktop</p>
 </div>
